@@ -1,0 +1,17 @@
+# ninja log v5
+7	342	1686749182989028271	CMakeFiles/Algorithms_HW3.dir/algorithms/dijkstra.cpp.o	4bf69b002e82b784
+352	388	1686749183037609158	Algorithms_HW3	704961d918167418
+8	352	1686749182999600569	CMakeFiles/Algorithms_HW3.dir/utilities/executor.cpp.o	9ae1e5d362d844d
+8	328	1686749357096553141	CMakeFiles/Algorithms_HW3.dir/main.cpp.o	c4880558f83c2cea
+9	336	1686742359172290731	CMakeFiles/Algorithms_HW3.dir/algorithms/floyd_warshall.cpp.o	95c6b332432e6d52
+8	326	1686661493871288252	CMakeFiles/Algorithms_HW3.dir/utilities/generate_graph.cpp.o	cf5f39067d01655e
+8	368	1686746147771011462	CMakeFiles/Algorithms_HW3.dir/algorithms/bellman_ford.cpp.o	62f50944eb104c5b
+14	737	1686762459030412760	CMakeFiles/Algorithms_HW3.dir/algorithms/floyd_warshall.cpp.o	95c6b332432e6d52
+15	744	1686762459038274752	CMakeFiles/Algorithms_HW3.dir/algorithms/bellman_ford.cpp.o	62f50944eb104c5b
+14	844	1686762459136109170	CMakeFiles/Algorithms_HW3.dir/algorithms/dijkstra.cpp.o	4bf69b002e82b784
+14	852	1686762459143016361	CMakeFiles/Algorithms_HW3.dir/utilities/generate_graph.cpp.o	cf5f39067d01655e
+13	871	1686762459165166843	CMakeFiles/Algorithms_HW3.dir/main.cpp.o	c4880558f83c2cea
+14	874	1686762459168686978	CMakeFiles/Algorithms_HW3.dir/utilities/executor.cpp.o	9ae1e5d362d844d
+874	921	1686762459215515693	Algorithms_HW3	704961d918167418
+9	314	1686762561799664453	CMakeFiles/Algorithms_HW3.dir/algorithms/dijkstra.cpp.o	4bf69b002e82b784
+315	351	1686762561838777636	Algorithms_HW3	704961d918167418
